@@ -1,4 +1,4 @@
-# Brunch + Babel/ES6
+# Brunch + Babel/ES6 + Angular2 + Jasmine
 
 This is a modern JS skeleton for [Brunch](http://brunch.io).
 
